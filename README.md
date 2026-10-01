@@ -9,7 +9,6 @@ The story of this dashboard aims to tell which coin is the best coin based on th
 
 ## Visualization
 
-[View From Tableau](public.tableau.com/app/profile/tran.doan.chau/viz/Book1_17624463337610/Dashboard1)
-
+[View From Tableau](https://public.tableau.com/app/profile/tran.doan.chau/viz/Book1_17624463337610/Dashboard1)
 
 ![Dashboard](./img/Dashboard.png)
